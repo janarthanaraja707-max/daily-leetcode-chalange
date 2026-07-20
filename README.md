@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0038-count-and-say/) | Medium |
 | [0065-valid-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0065-valid-number/) | Hard |
@@ -54,4 +55,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
