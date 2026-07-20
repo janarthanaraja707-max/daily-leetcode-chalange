@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0038-count-and-say](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0038-count-and-say/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
