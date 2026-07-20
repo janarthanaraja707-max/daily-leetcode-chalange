@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 <!---LeetCode Topics End-->
