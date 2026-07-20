@@ -25,8 +25,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
