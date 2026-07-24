@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0038-count-and-say/) | Medium |
 | [0065-valid-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0065-valid-number/) | Hard |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
