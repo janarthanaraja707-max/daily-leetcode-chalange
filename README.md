@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0038-count-and-say](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0038-count-and-say/) | Medium |
 | [0065-valid-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0065-valid-number/) | Hard |
+| [0125-valid-palindrome](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
