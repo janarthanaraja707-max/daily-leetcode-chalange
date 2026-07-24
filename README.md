@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -17,12 +18,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -59,11 +62,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
