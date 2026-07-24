@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -26,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
@@ -38,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Recursion
@@ -48,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
 ## Stack
