@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0065-valid-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0065-valid-number/) | Hard |
 | [0125-valid-palindrome](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0125-valid-palindrome/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
