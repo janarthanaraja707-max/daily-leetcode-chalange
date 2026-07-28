@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0066-plus-one/) | Easy |
+| [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -60,12 +61,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
+| [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0137-single-number-ii/) | Medium |
+| [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## String
