@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0136-single-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0137-single-number-ii/) | Medium |
+| [0190-reverse-bits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0190-reverse-bits/) | Easy |
 | [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0190-reverse-bits/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
