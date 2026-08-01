@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0137-single-number-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0198-house-robber/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -95,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0219-contains-duplicate-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0219-contains-duplicate-ii/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
