@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
+| [0053-maximum-subarray](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0137-single-number-ii/) | Medium |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0191-number-of-1-bits/) | Easy |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0392-is-subsequence/) | Easy |
 ## Design
