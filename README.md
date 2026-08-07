@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0001-two-sum/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0141-linked-list-cycle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0169-majority-element](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
+| [0141-linked-list-cycle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0141-linked-list-cycle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0125-valid-palindrome/) | Easy |
+| [0141-linked-list-cycle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0283-move-zeroes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0392-is-subsequence](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0392-is-subsequence/) | Easy |
@@ -173,4 +176,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1603-design-parking-system/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0141-linked-list-cycle/) | Easy |
 <!---LeetCode Topics End-->
