@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0228-summary-ranges](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0228-summary-ranges/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0283-move-zeroes/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -174,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1603-design-parking-system/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
