@@ -187,4 +187,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
