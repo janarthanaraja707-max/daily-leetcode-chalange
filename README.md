@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0507-perfect-number/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1323-maximum-69-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1323-maximum-69-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
