@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
+| [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1603-design-parking-system/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -205,4 +207,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->
