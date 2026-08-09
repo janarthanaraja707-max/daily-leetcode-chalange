@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0709-to-lower-case/) | Easy |
+| [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
