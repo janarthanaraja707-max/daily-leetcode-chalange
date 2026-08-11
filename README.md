@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0504-base-7/) | Easy |
 | [0507-perfect-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0507-perfect-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0125-valid-palindrome/) | Easy |
 | [0392-is-subsequence](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0392-is-subsequence/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0504-base-7](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0709-to-lower-case/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
