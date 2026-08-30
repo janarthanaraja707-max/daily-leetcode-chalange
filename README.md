@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0367-valid-perfect-square/) | Easy |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
 | [0066-plus-one](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
@@ -245,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
