@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Binary Search
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
