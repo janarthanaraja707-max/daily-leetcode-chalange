@@ -121,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0709-to-lower-case/) | Easy |
+| [0796-rotate-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
@@ -253,4 +254,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0069-sqrtx/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
