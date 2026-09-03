@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0007-reverse-integer/) | Medium |
 | [0029-divide-two-integers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0029-divide-two-integers/) | Medium |
+| [0062-unique-paths](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0069-sqrtx/) | Easy |
 | [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0062-unique-paths/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0392-is-subsequence/) | Easy |
@@ -270,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0796-rotate-string/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
