@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0319-bulb-switcher/) | Medium |
 | [0367-valid-perfect-square](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0504-base-7](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0504-base-7/) | Easy |
@@ -276,4 +277,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0062-unique-paths/) | Medium |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
