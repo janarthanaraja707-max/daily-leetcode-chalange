@@ -228,16 +228,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0971-flip-binary-tree-to-match-preorder-traversal/) | Medium |
 ## Matrix
@@ -288,4 +291,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0617-merge-two-binary-trees](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0617-merge-two-binary-trees/) | Easy |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
