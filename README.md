@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1929-concatenation-of-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1929-concatenation-of-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Binary Search
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1603-design-parking-system/) | Easy |
+| [1929-concatenation-of-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1929-concatenation-of-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
