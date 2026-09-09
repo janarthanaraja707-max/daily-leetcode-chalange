@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1470-shuffle-the-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
