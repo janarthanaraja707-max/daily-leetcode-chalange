@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
+| [0771-jewels-and-stones](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0771-jewels-and-stones/) | Easy |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0504-base-7/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0709-to-lower-case](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0709-to-lower-case/) | Easy |
+| [0771-jewels-and-stones](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
