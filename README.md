@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0605-can-place-flowers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0605-can-place-flowers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0605-can-place-flowers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
