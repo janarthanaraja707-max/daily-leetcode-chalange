@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0796-rotate-string/) | Easy |
 | [0806-number-of-lines-to-write-string](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0806-number-of-lines-to-write-string/) | Easy |
+| [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0392-is-subsequence/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -236,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
+| [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
 | [1603-design-parking-system](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1929-concatenation-of-array/) | Easy |
