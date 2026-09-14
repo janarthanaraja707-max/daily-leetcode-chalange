@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
+| [0485-max-consecutive-ones](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0495-teemo-attacking](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0605-can-place-flowers/) | Easy |
