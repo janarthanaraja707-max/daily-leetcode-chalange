@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0414-third-maximum-number/) | Easy |
+| [0495-teemo-attacking](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0605-can-place-flowers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0605-can-place-flowers/) | Easy |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0495-teemo-attacking/) | Easy |
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
