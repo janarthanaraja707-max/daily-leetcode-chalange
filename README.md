@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0941-valid-mountain-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0941-valid-mountain-array/) | Easy |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0945-minimum-increment-to-make-array-unique/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1122-relative-sort-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1122-relative-sort-array/) | Easy |
