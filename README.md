@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0141-linked-list-cycle/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0680-valid-palindrome-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
 | [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0917-reverse-only-letters/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0922-sort-array-by-parity-ii/) | Easy |
