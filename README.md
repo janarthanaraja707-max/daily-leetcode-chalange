@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0917-reverse-only-letters/) | Easy |
 | [1002-find-common-characters](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1002-find-common-characters/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0020-valid-parentheses/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0844-backspace-string-compare](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0844-backspace-string-compare/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -355,4 +357,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
