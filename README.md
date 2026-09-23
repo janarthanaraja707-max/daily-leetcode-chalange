@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0896-monotonic-array](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0896-monotonic-array/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0922-sort-array-by-parity-ii](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0922-sort-array-by-parity-ii/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0509-fibonacci-number/) | Easy |
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [0976-largest-perimeter-triangle](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0867-transpose-matrix/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Counting Sort
@@ -310,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0812-largest-triangle-area](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0812-largest-triangle-area/) | Easy |
+| [0883-projection-area-of-3d-shapes](https://github.com/janarthanaraja707-max/daily-leetcode-chalange/tree/main/0883-projection-area-of-3d-shapes/) | Easy |
 ## Polygons
 | Problem Name | Difficulty |
 | ------- | ------- |
